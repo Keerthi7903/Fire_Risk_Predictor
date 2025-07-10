@@ -50,9 +50,8 @@ By simulating forest fire risk zones, this tool can aid early awareness, communi
 ---
 
 ## 🖼️ Demo Screenshot
+![forestfire](https://github.com/user-attachments/assets/eb3bbc0d-abd4-45a0-a411-f9fbd22928bb)
 
-![App Screenshot](./assets/screenshot.png)
-*(replace with your own screenshot if available)*
 
 ---
 
